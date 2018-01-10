@@ -4,6 +4,8 @@
 Zeyu Chen
 
 ## ForeWord
+The project is the final project of ECE 6258.
+
 There are sevral parts of codes
 Camera calibrtion is based on C++.
 The Distance is based on MATLAB
@@ -69,4 +71,6 @@ Then use openpose to extract key points information with command:
 Then you will have a folder including processed data. Move it into Detection directory to test.
 
 In the processed directory, all videos have been aleady preprocesing and key points are extracted. You do not need to reinstall the openpose and its environment. Just put the video directory into the Detection directory and then run video mode to retest the result.
+
+_The test videos are in large size, if needed, please email me for the test videos._
 
