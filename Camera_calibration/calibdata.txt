@@ -1,0 +1,13 @@
+./test_image/chess1.jpg
+./test_image/chess2.jpg
+./test_image/chess3.jpg
+./test_image/chess4.jpg
+./test_image/chess5.jpg
+./test_image/chess6.jpg
+./test_image/chess7.jpg
+./test_image/chess8.jpg
+./test_image/chess9.jpg
+./test_image/chess10.jpg
+./test_image/chess11.jpg
+./test_image/chess12.jpg
+./test_image/chess13.jpg
