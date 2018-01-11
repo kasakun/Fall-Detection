@@ -1,4 +1,4 @@
-Calibration
+## Calibration
 
 Use a general way to calibrate the phone camera. The phone is Samsung S8, I took 13 pictures as test images.The pictures cannot be taken in strong light.The resoluion is 640x480.
 
