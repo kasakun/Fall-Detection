@@ -72,5 +72,5 @@ Then you will have a folder including processed data. Move it into Detection dir
 
 In the processed directory, all videos have been aleady preprocesing and key points are extracted. You do not need to reinstall the openpose and its environment. Just put the video directory into the Detection directory and then run video mode to retest the result.
 
-_The test videos:https://www.dropbox.com/sh/skwk7cbkh82rrhw/AADniBuGf6WU7tgmzCIGPOFUa?dl=0
+_The test videos:https://www.dropbox.com/sh/skwk7cbkh82rrhw/AADniBuGf6WU7tgmzCIGPOFUa?dl=0_
 
